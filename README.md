@@ -21,7 +21,6 @@ public class TestAssist {
 		//执行指定脚本任务
 //		MhxyJob.Job_BaoTu(dm);
 		MhxyJob.Job_Gui(dm);
-		MhxyAssist.GB.setNowGuiNum(4);
 		
 	}//main	
 }
